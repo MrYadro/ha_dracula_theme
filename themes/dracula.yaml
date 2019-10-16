@@ -1,0 +1,101 @@
+Dracula:
+  # Text
+  primary-text-color: '#f8f8f2'
+  secondary-text-color: '#f8f8f2'
+  text-primary-color: '#f8f8f2'
+  disabled-text-color: '#6272a4'
+  
+  # Main interface colors
+  primary-color: '#21222b'
+  dark-primary-color: '#5194f7'
+  light-primary-color: '#6572a0'
+  accent-color: '#ee82c3'
+  divider-color: '#191a20'
+  
+  scrollbar-thumb-color: '#21222b'
+  
+  # States and badges
+  state-icon-color: '#6572a0'
+  state-icon-active-color: '#f8f8f2'
+  state-icon-unavailable-color: '#44475a'
+  
+  # Background and sidebar
+  card-background-color: '#343745'
+  primary-background-color: '#282a36'
+  secondary-background-color: '#343745'
+
+  # Sidebar
+  sidebar-icon-color: '#6572a0'
+  sidebar-text-color: '#6572a0'
+  sidebar-background-color: '#343745'
+  sidebar-selected-text-color: '#f8f8f3'
+  sidebar-selected-icon-color: '#f8f8f3'
+  
+  # Controls
+  toggle-button-color: '#ff00ff'
+  slider-color: '#ff00ff'
+  slider-secondary-color: '#ff00ff'
+  slider-bar-color: '#ff00ff'
+  
+  # Label badge
+  label-badge-background-color: '#282a36'
+  label-badge-text-color: '#f8f8f3'
+  label-badge-red: '#ff5555'
+  label-badge-blue: '#8be9fd'
+  label-badge-green: '#50fa7b'
+  label-badge-yellow: '#f1fa8c'
+  label-badge-grey: '#6272a4'
+  
+  # Paper styles
+  paper-grey-50: '#6272a4'
+  paper-grey-200: '#6272a4'
+  paper-grey-500: '#6272a4'
+  
+  # Paper spinner
+  google-red-500: '#ff5555'
+  google-blue-500: '#8be9fd'
+  google-green-500: '#50fa7b'
+  google-yellow-500: '#f1fa8c'
+  paper-spinner-color: '#21222b'
+  
+  # Paper slider
+  paper-green-400: '#50fa7b'
+  paper-blue-400: '#8be9fd'
+  paper-orange-400: '#ffb86c'
+  
+  # Toggle
+  paper-toggle-button-checked-ink-color: '#ff00ff'
+  paper-toggle-button-checked-button-color: '#f8f8f2'
+  paper-toggle-button-checked-bar-color: '#f8f8f2'
+  paper-toggle-button-unchecked-button-color: '#6572a0'
+  paper-toggle-button-unchecked-bar-color: '#6572a0'
+  
+  # Slider
+  paper-slider-knob-color: '#f8f8f2'
+  paper-slider-knob-start-color: '#00ff00'
+  paper-slider-pin-color: '#6272a4'
+  paper-slider-active-color: '#6272a4'
+  paper-slider-secondary-color: '#ffff00'
+  paper-slider-container-color: '#21222b'
+  
+  # Card
+  paper-card-background-color: 'var(--card-background-color)'
+  paper-listbox-background-color: 'var(--card-background-color)'
+  paper-item-icon-color: 'var(--state-icon-color)'
+  paper-item-icon-active-color: 'var(--state-icon-active-color)'
+  table-row-background-color: 'var(--primary-background-color)'
+  table-row-alternative-background-color: 'var(--secondary-background-color)'
+  
+  # mwc
+  mdc-theme-primary: '#f8f8f2'
+  mdc-theme-secondary: '#d2ba85'
+  mdc-theme-background: '#00ff00'
+  mdc-theme-surface: '#ff00ff'
+  
+  # mwc text styles
+  mdc-theme-on-primary: '#6572a0'
+  mdc-theme-on-secondary: '#21222b'
+  mdc-theme-on-surface: '#ff0000'
+
+  banner-card-heading-color-light: '#f8f8f2'
+  banner-card-heading-color-dark: '#21222b'
