@@ -1,3 +1,3 @@
-# ha_drecula_theme
+# ha_dracula_theme
 
 Home Assistant theme imspired by Dracula theme for VSCode
