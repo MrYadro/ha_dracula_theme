@@ -32,7 +32,9 @@ Dracula:
   sidebar-selected-icon-color: '#f8f8f3'
   
   # Controls
-  toggle-button-color: '#ff00ff'
+  switch-checked-color: '#f8f8f2'
+  switch-unchecked-button-color: '#6572a0'
+  switch-unchecked-track-color: '#6572a0'
   slider-color: '#ff00ff'
   slider-secondary-color: '#ff00ff'
   slider-bar-color: '#ff00ff'
@@ -62,13 +64,6 @@ Dracula:
   paper-green-400: '#50fa7b'
   paper-blue-400: '#8be9fd'
   paper-orange-400: '#ffb86c'
-  
-  # Toggle
-  paper-toggle-button-checked-ink-color: '#ff00ff'
-  paper-toggle-button-checked-button-color: '#f8f8f2'
-  paper-toggle-button-checked-bar-color: '#f8f8f2'
-  paper-toggle-button-unchecked-button-color: '#6572a0'
-  paper-toggle-button-unchecked-bar-color: '#6572a0'
   
   # Slider
   paper-slider-knob-color: '#f8f8f2'
