@@ -95,3 +95,5 @@ Dracula:
 
   banner-card-heading-color-light: '#f8f8f2'
   banner-card-heading-color-dark: '#21222b'
+  
+  markdown-code-background-color: '#44475a'
