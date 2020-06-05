@@ -6,7 +6,8 @@ Dracula:
   disabled-text-color: '#6272a4'
   
   # Main interface colors
-  primary-color: '#21222b'
+  app-header-background-color: '#21222b'
+  primary-color: '#ee82c3'
   dark-primary-color: '#5194f7'
   light-primary-color: '#6572a0'
   accent-color: '#ee82c3'
@@ -85,7 +86,7 @@ Dracula:
   mdc-theme-primary: '#f8f8f2'
   mdc-theme-secondary: '#d2ba85'
   mdc-theme-background: '#00ff00'
-  mdc-theme-surface: '#ff00ff'
+  mdc-theme-surface: '#21222b'
   
   # mwc text styles
   mdc-theme-on-primary: '#6572a0'
