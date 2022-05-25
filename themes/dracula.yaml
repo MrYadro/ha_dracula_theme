@@ -30,16 +30,6 @@ Dracula:
   divider-color: '#191a20'
   unknown-color: '#777775'
   accent-color: var(--primary-color)
-  # State Colours
-  error-color: var(--dracula-red)
-  success-color: var(--dracula-green)
-  info-color: var(--dracula-cyan)
-  warning-color: var(--dracula-orange)
-  state-on-color: var(--dracula-green)
-  state-off-color: var(--dracula-red)
-  state-home-color: var(--dracula-green)
-  state-not_home: var(--dracula-red)
-  state-unknown-color: var(--unknown-color)
   # Header Colours
   app-header-background-color: var(--tertiary-background-color)
   app-header-text-color: var(--dark-theme-base-color)
@@ -56,6 +46,15 @@ Dracula:
   paper-item-icon-active-color: var(--state-icon-active-color)
   paper-item-icon-color: var(--state-icon-color)
   # States and Badge Colours
+  error-color: var(--dracula-red)
+  success-color: var(--dracula-green)
+  info-color: var(--dracula-cyan)
+  warning-color: var(--dracula-orange)
+  state-on-color: var(--dracula-green)
+  state-off-color: var(--dracula-red)
+  state-home-color: var(--dracula-green)
+  state-not_home-color: var(--dracula-red)
+  state-unknown-color: var(--unknown-color)
   state-icon-active-color: var(--primary-text-color)
   state-icon-color: var(--light-primary-color)
   state-icon-unavailable-color: var(--dracula-selection)
@@ -143,12 +142,15 @@ Dracula:
   mdc-theme-text-primary-on-background: var(--primary-text-color)
   # Label Colours
   mdc-floating-label: var(--primary-text-color)
-  #Text Field
+  # Text Field
   mdc-text-field: var(--primary-background-color)
   mdc-text-field-label-ink-color: var(--primary-text-color)
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-text-field-fill-color: var(--tertiary-background-color)
   mdc-ripple-color: var(--primary-background-color)
+  # Input Field Colours
+  input-fill-color: var(--tertiary-background-color)
+  input-disabled-fill-color: var(--tertiary-background-color)
   # Misc Colours
   error-state-color: var(--dracula-pink)
   scrollbar-thumb-color: var(--tertiary-background-color)
