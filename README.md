@@ -1,7 +1,7 @@
 # ha_dracula_theme
 Home Assistant theme inspired by Dracula theme for VSCode
 
-Installation:
+## Installation:
 1. Create a folder called themes in your root config folder
 2. Open your configuration file, and add the following lines:
     ```
@@ -26,7 +26,7 @@ Installation:
     mode: single
 ```
 
-Screenshots:
+### Screenshots:
 ![image](https://user-images.githubusercontent.com/6831087/170179638-4b23fa35-cbc5-47d6-a5a9-d87b0cf5376d.png)
 
 ![image](https://user-images.githubusercontent.com/6831087/170179661-5d15fbed-147d-4cb0-b079-b89f96c1f2b4.png)
