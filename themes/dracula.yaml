@@ -1,7 +1,7 @@
 ---
-# Based on the Dracula colour scheme
-# Forked from MrYadro/ha_dracula_theme
+# Based on the Dracula colour scheme: https://github.com/dracula/dracula-theme
 # Dracula theme
+# Author: MrYadro
 # Updated by: collateral127
 Dracula:
   # Main Interface Colours
@@ -120,10 +120,12 @@ Dracula:
   material-divider-color: var(--divider-color)
   material-success-color: var(--dracula-green)
   material-error-color: var(--dracula-red)
-  # MDC Colours
+  # Checkbox colours
   mdc-checkbox-disabled-color: var(--light-theme-disabled-color)
+  # Dialog colours
   mdc-dialog-content-ink-color: var(--dracula-pink)
   mdc-dialog-heading-ink-color: var(--dracula-pink)
+  # Material Theme Colours
   mdc-theme-background: var(--dracula-green)
   mdc-theme-on-primary: var(--light-primary-color)
   mdc-theme-on-secondary: var(--tertiary-background-color)
@@ -131,8 +133,10 @@ Dracula:
   mdc-theme-primary: var(--primary-text-color)
   mdc-theme-secondary: '#d2ba85'
   mdc-theme-text-primary-on-background: var(--primary-text-color)
-  mdc-text-field: var(--primary-background-color)
+  # Label Colours
   mdc-floating-label: var(--primary-text-color)
+  #Text Field
+  mdc-text-field: var(--primary-background-color)
   mdc-text-field-label-ink-color: var(--primary-text-color)
   mdc-text-field-ink-color: var(--primary-text-color)
   mdc-text-field-fill-color: var(--tertiary-background-color)
