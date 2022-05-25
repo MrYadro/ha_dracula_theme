@@ -29,6 +29,11 @@ Dracula:
   text-primary-color: '#f8f8f2'
   divider-color: '#191a20'
   accent-color: var(--primary-color)
+  # State Colours
+  error-color: var(--dracula-red)
+  success-color: var(--dracula-green)
+  info-color: var(--dracula-cyan)
+  warning-color: var(dracula-orange)
   # Header Colours
   app-header-background-color: var(--tertiary-background-color)
   app-header-text-color: var(--dark-theme-base-color)
@@ -66,6 +71,7 @@ Dracula:
   # Card Colours
   card-background-color: var(--secondary-background-color)
   paper-blue-400: var(--dracula-cyan)
+  paper-card-header-color: var(--tertiary-background-color)
   paper-card-background-color: var(--card-background-color)
   paper-green-400: var(--dracula-green)
   paper-grey-200: var(--light-theme-disabled-color)
@@ -94,6 +100,9 @@ Dracula:
   material-background-color: var(--tertiary-background-color)
   material-secondary-background-color: var(--primary-text-color)
   mdc-theme-surface: var(--tertiary-background-color)
+  mdc-select-fill-color: var(--tertiary-background-color)
+  mdc-select-label-ink-color: var(--primary-text-color)
+  mdc-select-ink-color: var(--primary-text-color)
   # Pre/Code Colours
   markdown-code-background-color: var(--dracula-selection)
   # Banner Colours
@@ -109,6 +118,8 @@ Dracula:
   material-body-text-color: var(--light-primary-color)
   material-disabled-color: var(--light-theme-disabled-color)
   material-divider-color: var(--divider-color)
+  material-success-color: var(--dracula-green)
+  material-error-color: var(--dracula-red)
   # MDC Colours
   mdc-checkbox-disabled-color: var(--light-theme-disabled-color)
   mdc-dialog-content-ink-color: var(--dracula-pink)
@@ -123,10 +134,13 @@ Dracula:
   mdc-text-field: var(--primary-background-color)
   mdc-floating-label: var(--primary-text-color)
   mdc-text-field-label-ink-color: var(--primary-text-color)
+  mdc-text-field-ink-color: var(--primary-text-color)
+  mdc-text-field-fill-color: var(--tertiary-background-color)
   mdc-ripple-color: var(--primary-background-color)
   # Misc Colours
   error-state-color: var(--dracula-pink)
   scrollbar-thumb-color: var(--tertiary-background-color)
+
   
   
  
