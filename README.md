@@ -4,8 +4,10 @@ Home Assistant theme inspired by Dracula theme for VSCode
 Installation:
 1. Create a folder called themes in your root config folder
 2. Open your configuration file, and add the following lines:
+    ```
     frontend:
       themes: !include_dir_merge_named themes
+    ```  
 3. Under the themes folder, copy and paste the dracula folder from this repo
 4. In 'Developer Tools', select 'Services' and call the service 'frontend.reload_themes'
 5. Select your profile, and under the theme dropdown, select Dracula!
