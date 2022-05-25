@@ -28,12 +28,18 @@ Dracula:
   secondary-text-color: '#6572a0'
   text-primary-color: '#f8f8f2'
   divider-color: '#191a20'
+  unknown-color: '#777775'
   accent-color: var(--primary-color)
   # State Colours
   error-color: var(--dracula-red)
   success-color: var(--dracula-green)
   info-color: var(--dracula-cyan)
-  warning-color: var(dracula-orange)
+  warning-color: var(--dracula-orange)
+  state-on-color: var(--dracula-green)
+  state-off-color: var(--dracula-red)
+  state-home-color: var(--dracula-green)
+  state-not_home: var(--dracula-red)
+  state-unknown-color: var(--unknown-color)
   # Header Colours
   app-header-background-color: var(--tertiary-background-color)
   app-header-text-color: var(--dark-theme-base-color)
