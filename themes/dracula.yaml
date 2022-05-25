@@ -109,8 +109,10 @@ Dracula:
   mdc-select-fill-color: var(--tertiary-background-color)
   mdc-select-label-ink-color: var(--primary-text-color)
   mdc-select-ink-color: var(--primary-text-color)
+  input-dropdown-icon-color: var(--light-primary-color)
   # Pre/Code Colours
   markdown-code-background-color: var(--dracula-selection)
+  codemirror-atom: var(--dracula-orange)
   # Banner Colours
   banner-card-heading-color-dark: var(--tertiary-background-color)
   banner-card-heading-color-light: var(--primary-text-color)
