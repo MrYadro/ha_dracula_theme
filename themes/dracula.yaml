@@ -21,7 +21,7 @@ Dracula:
   light-theme-secondary-color: '#6572a0'
   primary-background-color: '#282a36'
   background-color: var(--primary-background-color)
-  primary-color: '#ee82c3'
+  primary-color: var(--dracula-purple)
   primary-text-color: '#f8f8f2'
   secondary-background-color: '#343745'
   tertiary-background-color: '#21222b'
