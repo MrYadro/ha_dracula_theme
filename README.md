@@ -10,6 +10,7 @@ Installation:
 4. In 'Developer Tools', select 'Services' and call the service 'frontend.reload_themes'
 5. Select your profile, and under the theme dropdown, select Dracula!
 6. If you wanted to set this as default for all users; create a new automation, access the yaml editor, and dump in the below:
+```
     alias: Set Theme at Startup
     description: ''
     trigger:
@@ -21,7 +22,7 @@ Installation:
           name: Dracula
         service: frontend.set_theme
     mode: single
-
+```
 
 Screenshots:
 ![image](https://user-images.githubusercontent.com/6831087/170179638-4b23fa35-cbc5-47d6-a5a9-d87b0cf5376d.png)
