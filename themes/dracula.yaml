@@ -119,6 +119,9 @@ Dracula:
   mdc-theme-primary: var(--primary-text-color)
   mdc-theme-secondary: '#d2ba85'
   mdc-theme-text-primary-on-background: var(--primary-text-color)
+  mdc-text-field: var(--primary-background-color)
+  mdc-floating-label: var(--primary-text-color)
+  mdc-select__selected-text-container: (var--dracula-selected-text)  
   # Misc Colours
   error-state-color: var(--dracula-pink)
   scrollbar-thumb-color: var(--tertiary-background-color)
